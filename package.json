@@ -1,5 +1,5 @@
 {
-  "name": "create-vue-pwa",
+  "name": "@pwa/create-vue-pwa",
   "version": "0.0.2",
   "description": "Create a Vue.js PWA",
   "license": "MIT",
