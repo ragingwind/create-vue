@@ -1,6 +1,6 @@
 {
   "name": "@pwa/create-vue-pwa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a Vue.js PWA",
   "license": "MIT",
   "repository": "ragingwind/create-vue-pwa",
