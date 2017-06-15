@@ -1,6 +1,6 @@
 {
   "name": "@pwa/create-vue-pwa",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Create a Vue.js PWA",
   "license": "MIT",
   "repository": "ragingwind/create-vue-pwa",
@@ -32,7 +32,7 @@
     "ava": "^0.19.1",
     "xo": "^0.18.2"
   },
-	"publishConfig": {
-		"access": "public"
-	}
+  "publishConfig": {
+    "access": "public"
+  }
 }
